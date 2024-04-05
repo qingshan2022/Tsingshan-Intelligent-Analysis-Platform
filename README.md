@@ -6,8 +6,9 @@
 
 ### 同步则等待AI分析结束后再右边出现结果
 
+![](https://web-hehe-wocao.oss-cn-beijing.aliyuncs.com/bifor/image-20240405211739258.png)
 
-![image-20240405211739258](D:\a_dev_project\Tsingshan-Intelligent-Analysis\Tsingshan-Intelligent-Analysis-Platform\imagea\image-20240405211739258.png)
+
 
 ### 异步分析则通过线程池/rabbitmq消息队列
 
@@ -39,15 +40,15 @@
 
 ### 异步的结果可以直接在我的图表页面查看分析结果
 
-![image-20240405213002747](D:\a_dev_project\Tsingshan-Intelligent-Analysis\Tsingshan-Intelligent-Analysis-Platform\imagea\image-20240405213002747.png)
+![](https://web-hehe-wocao.oss-cn-beijing.aliyuncs.com/bifor/image-20240405213002747.png)
 
 ### 图片分析模块，可以实现自动生成AI对图片描述
 
-![image-20240405213205180](D:\a_dev_project\Tsingshan-Intelligent-Analysis\Tsingshan-Intelligent-Analysis-Platform\imagea\image-20240405213205180.png)
+![](https://web-hehe-wocao.oss-cn-beijing.aliyuncs.com/bifor/image-20240405213205180.png)
 
 ### 文字识别模块，可以实现自动生成AI对图片内所有文字的识别
 
-### ![image-20240405213321933](D:\a_dev_project\Tsingshan-Intelligent-Analysis\Tsingshan-Intelligent-Analysis-Platform\imagea\image-20240405213321933.png)
+### ![](https://web-hehe-wocao.oss-cn-beijing.aliyuncs.com/bifor/image-20240405213321933.png)
 
 AI方面使用redisson
 
@@ -55,12 +56,17 @@ AI方面使用redisson
 
 #### 用户端有鉴权功能，管理员有修改用户参数和删除用户的功能
 
-#### ![image-20240405211529676](D:\a_dev_project\Tsingshan-Intelligent-Analysis\Tsingshan-Intelligent-Analysis-Platform\imagea\image-20240405211529676.png)
+#### ![](https://web-hehe-wocao.oss-cn-beijing.aliyuncs.com/bifor/image-20240405211529676.png)
 
 #### 而普通用户不具备这个界面
 
-![image-20240405213518528](D:\a_dev_project\Tsingshan-Intelligent-Analysis\Tsingshan-Intelligent-Analysis-Platform\imagea\image-20240405213518528.png)
+![](https://web-hehe-wocao.oss-cn-beijing.aliyuncs.com/bifor/image-20240405213518528.png)
 
 ### 所有用户都具备修改自己信息的功能
 
-![image-20240405213551016](D:\a_dev_project\Tsingshan-Intelligent-Analysis\Tsingshan-Intelligent-Analysis-Platform\imagea\image-20240405213551016.png)
+![](https://web-hehe-wocao.oss-cn-beijing.aliyuncs.com/bifor/image-20240405213551016.png)
+
+
+
+
+
