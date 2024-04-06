@@ -66,7 +66,6 @@ AI方面使用redisson
 
 ![](https://web-hehe-wocao.oss-cn-beijing.aliyuncs.com/bifor/image-20240405213551016.png)
 
+### 项目框架图
 
-
-
-
+![](https://i0.hdslb.com/bfs/new_dyn/e5dc1d77eb9469904c5a7e9943722be533872539.png@616w_560h_1e_1c.avif)
